@@ -1,2 +1,2 @@
 # React-calculator
-A clone of iphone's calculator app made in React.
+A calculator app made in React.
